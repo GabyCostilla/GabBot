@@ -1,0 +1,4 @@
+"hola": "¡Hola! ¿Cómo puedo ayudarte hoy?, usa /ayuda para comandos",
+"adios": "Hasta luego. ¡Que tengas un buen día!",
+"nombre": "hola me llamo GabBot",
+"/ayuda": "lista de comandos:"
